@@ -1,0 +1,1 @@
+// use the feedback or bugreport contact us, and we will add some of the commands here soon so don't do anything just change the token and mongoURI and your done, Thank you!
