@@ -6,7 +6,7 @@ module.exports = {
     timeout: 1,
 
 run: async function (client, message, args) {
-    if (message.author.id !== `801334443281219584`) return message.reply("‼❌**YOU DONT HAVE PERMISSION TO RUN DEVELOPER COMMANDS** ")
+    if (message.author.id !== `787241442770419722`) return message.reply("‼❌**YOU DONT HAVE PERMISSION TO RUN DEVELOPER COMMANDS** ")
     
     const embed = new MessageEmbed()
       .setAuthor(message.author.tag, message.author.displayAvatarURL())

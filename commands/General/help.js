@@ -6,7 +6,7 @@ const disbut = require("discord-buttons");
  
     let embed1 = new Discord.MessageEmbed()
       .setTitle('**Start Help <a:purpleflyinghearts:854121476134535188>**')
-      .setDescription('<a:tealverify:877471156221923338> **MilfSupremacy  is one of the only free all in one bots that has many features like tickets, reaction roles, uptimer and buttons while keeping the minimalistic feel and look that every bot user loves.**')
+      .setDescription('<a:tealverify:877471156221923338> **RSU.**')
       .setColor("#f4c2c2")
       .addField("<:pinkdot:884750198990045216> COMMAND CATEGORIES",
         "<a:version:883111864568021072> MODERATION\n<:general:883112189949542461>  GENERAL\n<a:Giveaway:881130673782534165> GIVEAWAY\n<:setting:883111797207490560> INFO\n<:avatar:883112453368610876> IMAGE\n<:fun:883112388608544778> FUN\n")
@@ -15,17 +15,17 @@ const disbut = require("discord-buttons");
       .setFooter('Miya25')
     let embed2 = new Discord.MessageEmbed()
       .setTitle('**Moderation Help <a:purpleflyinghearts:854121476134535188>**')
-      .setDescription('<a:tealverify:877471156221923338> **MilfSupremacy  is one of the only free all in one bots that has many features like tickets, reaction roles, uptimer and buttons while keeping the minimalistic feel and look that every bot user loves.**')
+      .setDescription('<a:tealverify:877471156221923338> **RSU.**')
       .setColor("#f4c2c2")
       .addField(
         "<a:version:883111864568021072> MODERATION",
-        "`ban` `unban` `kick` `addemoji` `addrole` `removerole` `announce` `setnick` `resetnick` `purge` `slowmode` `mute` `unmute` `purge-channel`")
+        "`ban` `unban` `kick` `addemoji` `addrole` `removerole` `announce` `.` `.` `purge` `slowmode` `mute` `unmute` `purge-channel`")
       .setThumbnail("https://i.imgur.com/sudaOcE.gif")
       .setImage('https://i.imgur.com/sudaOcE.gif')
       .setFooter('Miya25')
     let embed3 = new Discord.MessageEmbed()
       .setTitle('**General Help <a:purpleflyinghearts:854121476134535188>**')
-      .setDescription('<a:tealverify:877471156221923338> **MilfSupremacy  is one of the only free all in one bots that has many features like tickets, reaction roles, uptimer and buttons while keeping the minimalistic feel and look that every bot user loves.**')
+      .setDescription('<a:tealverify:877471156221923338> **RSU.**')
       .setColor("#f4c2c2")
       .addField(
         "<:general:883112189949542461> GENERAL",
@@ -35,7 +35,7 @@ const disbut = require("discord-buttons");
       .setFooter('Miya25')
     let embed4 = new Discord.MessageEmbed()
       .setTitle('**Giveaway Help <a:purpleflyinghearts:854121476134535188>**')
-      .setDescription('<a:tealverify:877471156221923338> **MilfSupremacy  is one of the only free all in one bots that has many features like tickets, reaction roles, uptimer and buttons while keeping the minimalistic feel and look that every bot user loves.**')
+      .setDescription('<a:tealverify:877471156221923338> **RSU.**')
       .setColor("#f4c2c2")
       .addField(
         "<a:Giveaway:881130673782534165> GIVEAWAY",
@@ -45,17 +45,17 @@ const disbut = require("discord-buttons");
       .setFooter('Miya25')
     let embed5 = new Discord.MessageEmbed()
       .setTitle('**Info Help <a:purpleflyinghearts:854121476134535188>**')
-      .setDescription('<a:tealverify:877471156221923338> **MilfSupremacy  is one of the only free all in one bots that has many features like tickets, reaction roles, uptimer and buttons while keeping the minimalistic feel and look that every bot user loves.**')
+      .setDescription('<a:tealverify:877471156221923338> **RSU.**')
       .setColor("#f4c2c2")
       .addField(
         "<:setting:883111797207490560> INFO",
         "`avatar` `help` `position` `urban` `weather` `status` `channelinfo` `rolememberinfo`")
       .setThumbnail("https://i.imgur.com/sudaOcE.gif")
-      .setImage('https://i.imgur.com/kvV3fT3.gif')
+      .setImage('https://i.imgur.com/sudaOcE.gif')
       .setFooter('Miya25')
     let embed6 = new Discord.MessageEmbed()
       .setTitle('**Image Help <a:purpleflyinghearts:854121476134535188>**')
-      .setDescription('<a:tealverify:877471156221923338> **MilfSupremacy  is one of the only free all in one bots that has many features like tickets, reaction roles, uptimer and buttons while keeping the minimalistic feel and look that every bot user loves.**')
+      .setDescription('<a:tealverify:877471156221923338> **RSU.**')
       .setColor("#f4c2c2")
       .addField(
         "<:avatar:883112453368610876> Image",

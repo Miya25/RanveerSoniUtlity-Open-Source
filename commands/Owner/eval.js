@@ -7,9 +7,9 @@ module.exports ={
     description: "IDK BRUH",
 
  run: async (client, message, args) => {
-  if(message.author.id !== "801334443281219584") return
+  if(message.author.id !== "787241442770419722") return
   const input = args.join(' ');
-    if (!input) return message.reply("code.")
+    if (!input) return message.reply("Hey cutie! Its Owner Only ")
     if(!input.toLowerCase().includes('token')) {
 
       const embed = new MessageEmbed();

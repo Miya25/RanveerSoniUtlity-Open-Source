@@ -7,7 +7,7 @@ module.exports = {
  usage: 'reload <category> <command>',
  run: async(client, message, args) => {
  
- if(message.author.id !== "801334443281219584") return message.channel.send("This command is only for bot owners.");
+ if(message.author.id !== "787241442770419722") return message.channel.send("This command is only for bot owners.");
  
  if(!args[0]) return message.channel.send('You must provide a category name');
  if(!args[1]) return message.channel.send('You must provide a command for me to reload');
