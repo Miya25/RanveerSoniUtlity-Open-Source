@@ -18,7 +18,7 @@
     "atob": "^2.1.2",
     "axios": "^0.21.1",
     "beautify": "0.0.8",
-    "canvacord": "^5.2.3",
+    "canvacord": "^5.4.10",
     "canvas": "^2.8.0",
     "commands": "0.0.7",
     "common-tags": "^1.8.0",
