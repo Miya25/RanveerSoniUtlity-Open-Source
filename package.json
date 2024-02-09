@@ -61,7 +61,7 @@
     "weather-js": "^2.0.0",
     "weky": "^3.1.2",
     "wio.db": "^4.0.21",
-    "youtube-sr": "^4.1.7",
+    "youtube-sr": "^4.3.10",
     "ytdl-core": "^4.9.1"
   }
 }
